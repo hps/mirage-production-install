@@ -1,1 +1,1 @@
-# ** This repository is no longer maintained! **
+# ** This repository is no longer maintained **
